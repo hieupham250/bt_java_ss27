@@ -1,7 +1,7 @@
 package business.DAO.student;
 
 import business.config.ConnectionDB;
-import business.modal.Student;
+import business.model.Student;
 
 import java.sql.*;
 import java.util.ArrayList;

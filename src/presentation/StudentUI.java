@@ -1,6 +1,6 @@
 package presentation;
 
-import business.modal.Student;
+import business.model.Student;
 import business.service.Student.StudentServices;
 import business.service.Student.studentServiceIpm;
 import java.util.List;

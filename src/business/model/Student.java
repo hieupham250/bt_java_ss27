@@ -1,4 +1,4 @@
-package business.modal;
+package business.model;
 
 import java.util.Scanner;
 
